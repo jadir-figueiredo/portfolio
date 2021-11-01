@@ -234,3 +234,14 @@ header {
 .social-media i:hover {
     background-color: #0f5b70;
 }
+
+.conhecimentos {
+    display: grid;
+    grid-template-columns: repeat(16, 1fr);
+    grid-template-rows: repeat(6, 4rem);
+}
+
+.conhecimento:nth-child(1) {
+    grid-column: 4 / 7;
+    grid-row: 3 / 5;
+}
