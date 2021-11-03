@@ -311,7 +311,7 @@ header {
     margin-top: 1rem;
 }
 
-/.conhecimentos-img-wrapper {
+.conhecimentos-img-wrapper {
     grid-column: 7 / 11;
     grid-row: 2 / 6;
     width: 100%;
